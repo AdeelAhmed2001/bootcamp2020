@@ -6,3 +6,4 @@ this is merge commit
 ok second
 hello changes rebase
 global globaall
+ helloo
